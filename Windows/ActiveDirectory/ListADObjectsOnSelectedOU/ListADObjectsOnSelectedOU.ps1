@@ -63,15 +63,6 @@
    
    
     .NOTES
-    Version:        1.1
-    Author:         ALBERT Jean-Marc
-    Creation Date:  15/07/2015
-    Purpose/Change: 1.0 - 2015.07.15 - ALBERT Jean-Marc - Initial script development
-                  1.1 - 2015.07.16 - ALBERT Jean-Marc - Optimize code (minification)
-                  1.2 - 2015.07.17 - ALBERT Jean-Marc - Add sAMAccountName and homedirectory to "Get-ADObject parameters"
-                  
-                                                  
-    .SOURCES
   
   
     .EXAMPLE
